@@ -1,2 +1,7 @@
 # HR-ANALYSIS
 SOLVED DIFFERENT KPIS
+Objective-> Analyze the Human resource data set and generate various insights about why are our best and most experienced employees leaving prematurely?
+
+Data Description->Satisfaction_level Last evaluation Number of projects Average monthly hours Time spent at the company Whether they have had a work accident Whether the employee has left Whether they have had a promotion in the last 5 years Department Salary KPIs->
+
+1- Average satisfaction_level for individual Department. 2- Department wise average monthly working hour. 3-No of Project done by individual Department. 4-Department wise salary Distribution. 5->In individual Department How many Employees promoted in last 5 years but still left the company. 6->Department wise average satisfaction level, average working hours and no of employee who left company. 7->When salary is low find out the Department wise mean satisfaction level , average working hours and no of employee who left company. 8->When salary is low and not promoted in last 5 year than find out the Department wise mean satisfaction level, average working hours and no of employee who left company. 9->For individual department find out the average satisfaction_level, average evaluation and percentage of employees left company on the basis of salary. 10->Name of the department where more than 70% employees left the company. 11->Salary Distribution of highly experienced employee in company. 12->In which department total no of project is greater than 40% of overall
